@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AT_Monetizacao</string>
+    <string name="nome">Nome</string>
+    <string name="email">Login (Email)</string>
+    <string name="senha">Senha</string>
+    <string name="confirmar_senha">Confirmar Senha</string>
+    <string name="cpf">CPF</string>
+    <string name="formato_cpf">xxx.xxx.xxx-xx</string>
+    <string name="btn_cadastro">cadastrar</string>
+</resources>
